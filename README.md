@@ -1,5 +1,5 @@
 # UI Lab 2 
-Результат роботи на 5-ть
+<h2>Результат роботи на 5-ть</h2>
 <img src="https://github.com/ppc-ntu-khpi/34-tui-2-Stickki/blob/3338398bd00d9cef67acd5ab4cbd07e483636b60/TUIdemo_2/src/image/1.jpg"/>
 <img src="https://github.com/ppc-ntu-khpi/34-tui-2-Stickki/blob/3338398bd00d9cef67acd5ab4cbd07e483636b60/TUIdemo_2/src/image/2.jpg"/>
 
